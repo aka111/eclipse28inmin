@@ -26,7 +26,10 @@ public static void main(String[] args) {
 			for (int dfj : numbers) {
 				rrayList.add("dsfjh");
 				//fgfd
+
 				System.out.println(" update the branch learning");
+
+
 			} 
 
 
